@@ -1,0 +1,8 @@
+# Trim various things by removing leading and trailing whitespace.
+
+![Test](https://github.com/philiprbrenan/Trim/workflows/Test/badge.svg)
+
+The githubaction in this repo shows how to install and use this module.
+
+Test cases can be seen at the end of **lib/Trim.pm**.  The test cases are
+run by the githubaction.
